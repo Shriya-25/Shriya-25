@@ -1,133 +1,94 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:00B4D8&height=180&section=header&text=SHRIYA%20KULKARNI&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Engineering%20Ideas%20Into%20Impact&descSize=16&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:0D1117,50:302B63,100:00D9FF&text=SHRIYA%20KULKARNI&fontColor=FFFFFF&fontSize=42&fontAlignY=48&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Application+Developer;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Cloud+Computing;Building+Scalable+Digital+Products" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Application+Developer;AI+%26+Machine+Learning;Generative+AI+%7C+Cloud+Computing;Turning+Ideas+Into+Digital+Products" alt="Developer roles" />
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://shriyakulkarni.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-302B63?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shriyakulkarni25/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github)](https://github.com/Shriya-25)
 
-<a href="https://shriyakulkarni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00B4D8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shriyakulkarni25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Shriya-25"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+**IT @ AISSMS IOIT, Pune** &nbsp;·&nbsp; **Honors in Cybersecurity** &nbsp;·&nbsp; **AWS Certified AI Practitioner**
 
 </div>
 
----
+### `01 / ABOUT`
 
-## About
+Full-stack developer exploring AI-powered applications, modern web technologies, and cloud computing. Interested in turning ideas into practical products through thoughtful engineering and continuous learning.
 
-B.Tech Information Technology student at AISSMS Institute of Information Technology, Pune, with Honors in Cybersecurity. Interested in full-stack application development, Artificial Intelligence, Generative AI, Machine Learning, and cloud computing.
-
-Focused on building practical applications, exploring emerging technologies, and continuously improving software development and problem-solving skills.
-
-## Technical Skills
+### `02 / TECH STACK`
 
 <div align="center">
 
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=4" alt="Java, Python, JavaScript, TypeScript" />
-
-**Web & Backend Development**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=5" alt="React, Next.js, Node.js, Express, Tailwind CSS" />
-
-**Databases, Cloud & Version Control**
-
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,aws,git,github&perline=6" alt="Firebase, MongoDB, SQLite, AWS, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,tailwind,firebase,mongodb,sqlite,aws,git,github&perline=8" alt="Technology stack" />
 
 </div>
 
-**AI & Data:** Artificial Intelligence, Generative AI, Machine Learning, Data Analytics, Data Visualization
+`AI & ML` · `Generative AI` · `REST APIs` · `OOP` · `DBMS` · `DSA` · `Data Analytics`
 
-**Core Concepts:** Object-Oriented Programming, DBMS, Data Structures and Algorithms, REST APIs
+### `03 / SELECTED PROJECTS`
 
-**Soft Skills:** Problem Solving, Communication, Teamwork, Leadership, Adaptability
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3>Festify</h3>
 
-## Projects
+College Event Management Platform
 
-### Festify — College Event Management Platform
+Event registration, role-based dashboards, custom forms, payment verification, and fund tracking.
 
-Full-stack platform for college event registration, payment processing, and event administration.
+`React` `Firebase` `Razorpay`
 
-**Features:** Role-based authentication, custom registration forms, payment verification, admin dashboards, and fund tracking.
+<a href="https://festify-six.vercel.app/"><b>↗ LIVE DEMO</b></a>
 
-**Tech Stack:** React.js, Tailwind CSS, Firebase Authentication, Firestore, Razorpay
+</td>
+<td width="50%" valign="top">
 
-[Live Demo](https://festify-six.vercel.app/)
+<h3>InvoiceAI</h3>
 
-### InvoiceAI — AI-Powered Invoice Intelligence Platform
+AI-Powered Invoice Intelligence
 
-AI-powered invoicing platform for generating, managing, and exporting professional invoices using natural-language prompts.
+Natural-language invoice generation, client management, PDF export, and business analytics.
 
-**Features:** AI invoice generation, manual invoice builder, client and invoice management, PDF export, business profiles, and dashboard analytics.
+`React` `Node.js` `Gemini API`
 
-**Tech Stack:** React.js, Tailwind CSS, React Router, Node.js, Express.js, Gemini API, Firebase
+<a href="https://invoice-ai-foryou.vercel.app/"><b>↗ LIVE DEMO</b></a>
 
-[Live Demo](https://invoice-ai-foryou.vercel.app/)
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### FocusFlow — Productivity Mobile Application
+<h3>FocusFlow</h3>
 
-Pomodoro productivity application designed to support focused work through persistent timers and productivity tracking.
+**Productivity Mobile Application**
 
-**Features:** Custom Pomodoro timer, session tracking, streak calendar, productivity analytics, Google Sign-In, guest mode, and persistent login.
+Pomodoro timer, session tracking, streak calendar, productivity analytics, Google Sign-In, and guest mode.
 
-**Tech Stack:** React Native, TypeScript, Firebase, Android development tools
+`React Native` `TypeScript` `Firebase`
 
-[GitHub Profile](https://github.com/Shriya-25)
+</td>
+</tr>
+</table>
 
----
+### `04 / RESEARCH`
 
-## Research Publications
+| Publication | Year | Paper |
+|---|---:|---|
+| Decentralized Intelligence: Federated Learning for Rare Genetic Disorder Prediction | 2026 | [Read PDF ↗](https://www.ijarsct.co.in/Paper32877.pdf) |
+| Smart Inventory Solutions: AI in Stationery Retail Management | 2025 | [Read PDF ↗](https://ijarsct.co.in/Paper24871.pdf) |
 
-### Decentralized Intelligence: Applying Federated Learning to Rare Genetic Disorder Prediction in Clinical Environments
+### `05 / CERTIFICATIONS`
 
-Published in IJARSCT, 2026.
-
-Research on applying federated learning to rare genetic disorder prediction in clinical environments.
-
-[Read Published Paper (PDF)](https://www.ijarsct.co.in/Paper32877.pdf)
-
-### Smart Inventory Solutions: Leveraging AI in Stationery Retail Management
-
-Published in IJARSCT, 2025.
-
-Research on applying Artificial Intelligence to stationery inventory management and retail stock monitoring.
-
-[Read Published Paper (PDF)](https://ijarsct.co.in/Paper24871.pdf)
-
----
-
-## Certifications
-
-**AWS Certified AI Practitioner**
-
-**Oracle OCI Agentic AI Foundations** — Agentic AI, LLMs, LangChain, MCP, and AI agents.
-
-**AWS Cloud Architecting** — EC2, S3, IAM, and scalable cloud architecture concepts.
-
-**Microsoft Power BI Workshop** — Interactive dashboards and business data visualization.
-
-**Cyber Security & Ethical Hacking** — Network security and vulnerability assessment fundamentals.
+`AWS Certified AI Practitioner` &nbsp; `Oracle OCI Agentic AI Foundations` &nbsp; `AWS Cloud Architecting` &nbsp; `Microsoft Power BI` &nbsp; `Cyber Security & Ethical Hacking`
 
 ---
 
 <div align="center">
 
-## Let's Connect
+<a href="https://shriyakulkarni.vercel.app/">PORTFOLIO</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/shriyakulkarni25/">LINKEDIN</a> &nbsp; · &nbsp; <a href="mailto:shriya25.main@gmail.com">EMAIL</a>
 
-Interested in software development, AI applications, research, and building technology that solves real-world problems.
-
-<a href="https://shriyakulkarni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-<a href="https://www.linkedin.com/in/shriyakulkarni25/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br/>
-
-*Curious by nature. Building with purpose.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:302B63,100:0D1117&height=100&section=footer" width="100%" />
+<sub>Designed with curiosity. Built with purpose.</sub>
 
 </div>
